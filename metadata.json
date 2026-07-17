@@ -1,0 +1,6 @@
+{
+  "name": "Dra. Amanda Francioli - Harmonização Full Face",
+  "description": "Landing page de alta conversão para agendamento de consulta com a Dra. Amanda Francioli, especialista em Harmonização Full Face na Zona Norte de São Paulo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
